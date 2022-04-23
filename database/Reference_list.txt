@@ -1,0 +1,27 @@
+Reference list
+
+darkpool (2015). Select DataFrame rows between two dates. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/29370057/select-dataframe-rows-between-two-dates [Accessed 2 Sep. 2020].
+
+GeeksforGeeks. (2019). Iterating over rows and columns in Pandas DataFrame - GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/iterating-over-rows-and-columns-in-pandas-dataframe/ [Accessed 2 Sep. 2020].
+
+maxim (2012). How to check if a SQLite3 database exists in Python? [online] Stack Overflow. Available at: https://stackoverflow.com/questions/12932607/how-to-check-if-a-sqlite3-database-exists-in-python [Accessed 28 Aug. 2020].
+
+Morlock (2010). Proper way to assert type of variable in Python. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/2589522/proper-way-to-assert-type-of-variable-in-python [Accessed 2 Sep. 2020].
+
+nicholas.reichel (2015). Sort Pandas Dataframe by Date. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/28161356/sort-pandas-dataframe-by-date [Accessed 2 Sep. 2020].
+
+Nilani Algiriyage (2013). How to check whether a pandas DataFrame is empty? [online] Stack Overflow. Available at: https://stackoverflow.com/questions/19828822/how-to-check-whether-a-pandas-dataframe-is-empty [Accessed 2 Sep. 2020].
+
+Patches (2011). Deleting duplicate rows from sqlite database. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/8190541/deleting-duplicate-rows-from-sqlite-database [Accessed 3 Sep. 2020].
+
+Real Python (2019). Preventing SQL Injection Attacks With Python. [online] Realpython.com. Available at: https://realpython.com/prevent-python-sql-injection/ [Accessed 29 Aug. 2020].
+
+Roman (2013). How to iterate over rows in a DataFrame in Pandas. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas [Accessed 2 Sep. 2020].
+
+Schafer, C. (2020). Python Pandas Tutorial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames. YouTube. Available at: https://www.youtube.com/watch?v=DCDe29sIKcE [Accessed 28 Aug. 2020].
+
+Tutorialspoint.com. (2020). SQLite - DELETE Query - Tutorialspoint. [online] Available at: https://www.tutorialspoint.com/sqlite/sqlite_delete_query.htm [Accessed 1 Sep. 2020].
+
+Vik Paruchuri (2016). Working with SQL using Python and Pandas – Dataquest. [online] Dataquest. Available at: https://www.dataquest.io/blog/python-pandas-databases/ [Accessed 31 Aug. 2020].
+
+‌
